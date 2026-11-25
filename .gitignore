@@ -22,3 +22,5 @@ Thumbs.db
 *.egg-info/
 dist/
 build/
+# Do not commit books or other copyrighted PDFs
+*.pdf
